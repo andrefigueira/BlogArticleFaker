@@ -1,55 +1,52 @@
 <?php
 
 return [
-    '
-    # {{ title }}
+    '# {{ title }}
 
-    ---
+---
 
-    ___{{ paragraph }}___
+___{{ paragraph }}___
 
-    {{ paragraphs }}
+{{ paragraphs }}
 
     ',
 
     '
-    # {{ title }}
+# {{ title }}
 
-    {{ paragraphs }}
+{{ paragraphs }}
     ',
 
-    '
-    # {{ title }}
+    '# {{ title }}
 
-    ---
+---
 
-    ___{{ paragraph }}___
+___{{ paragraph }}___
 
-    {{ paragraphs }}
+{{ paragraphs }}
 
-    ![{{ words }}]({{ image }})
-    > {{ sentence }}
+![{{ words }}]({{ image }})
+> {{ sentence }}
 
-    ---
+---
 
-    {{ paragraphs }}
+{{ paragraphs }}
     ',
 
-    '
-    # {{ title }}
+    '# {{ title }}
 
-    ---
+---
 
-    ___{{ paragraph }}___
+___{{ paragraph }}___
 
-    > {{ sentence }}
+> {{ sentence }}
 
-    {{ paragraphs }}
+{{ paragraphs }}
 
-    ![{{ words }}]({{ image }})
+![{{ words }}]({{ image }})
 
-    ---
+---
 
-    {{ paragraphs }}
+{{ paragraphs }}
     ',
 ];
