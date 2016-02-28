@@ -1,6 +1,7 @@
 # BlogArticleFaker
 
 [![Build Status](https://travis-ci.org/andrefigueira/BlogArticleFaker.svg?branch=master)](https://travis-ci.org/andrefigueira/BlogArticleFaker)
+[![Total Downloads](https://poser.pugx.org/andrefigueira/blog-article-faker/downloads)](https://packagist.org/packages/andrefigueira/blog-article-faker)
 
 Generates titles and content for blog articles using faker
 
