@@ -1,0 +1,24 @@
+{
+    "name": "andrefigueira/blog-article-faker",
+    "description": "Generate random blog article titles and content (including markdown) using faker",
+    "keywords": ["faker", "fixtures", "data", "blog", "news", "article"],
+    "require": {
+        "fzaninotto/faker": "~1.4",
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "BlogArticleFaker\\": "src/BlogArticleFaker"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andre Figueira",
+            "email": "andre.figueira@me.com"
+        }
+    ]
+}
