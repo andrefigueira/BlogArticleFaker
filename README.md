@@ -1,5 +1,7 @@
 # BlogArticleFaker
 
+[![Build Status](https://travis-ci.org/andrefigueira/BlogArticleFaker.svg?branch=master)](https://travis-ci.org/andrefigueira/BlogArticleFaker)
+
 Generates titles and content for blog articles using faker
 
 ## Why?
