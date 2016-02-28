@@ -20,7 +20,7 @@ to generate "close enough" article titles, some of them happy to be quite funny,
 
 Run the following:
 
-    composer require x
+    composer require andrefigueira/blog-article-faker
     
 Or add the following to your composer file:
 
